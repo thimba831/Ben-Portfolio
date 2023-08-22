@@ -19,7 +19,7 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I am Yasuhiro Yamada, a senior <i><b className="purple">Web&Mobile</b></i> app developer who are extremely specialized in <i><b className="purple">JavaScript/Typescript</b></i> engineering.
+              I am BenMage, a senior <i><b className="purple">Web&Mobile</b></i> app developer who are extremely specialized in <i><b className="purple">JavaScript/Typescript</b></i> engineering.
               <br />
               <br />
               I have delivered scalable and robust projects for businesses and startups quickly with prototypesand ideas.
@@ -46,7 +46,7 @@ function Home2() {
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-                  href="https://github.com/soumyajit4419"
+                  href="https://github.com/mageben717"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
